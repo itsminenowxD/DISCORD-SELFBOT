@@ -1,3 +1,3 @@
 # exeter-selfbot-source-code
-swag is a skid who uses other people bots and makes them token loggers
-the real owner of this bot is coats1337/xanthe/9tacey/ owner of alucard basically this bot 
+Download all Modules using "pip install (whatever the module is without parenthesis) 
+Enjoy, Source code to exeter, GL to all, I am not responsible for any of your actions. GL, Anti nuke is in there, Put your password and token in the config file and enjoy. Good luck discordians
